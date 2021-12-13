@@ -1,2 +1,2 @@
 # sachani
-A wrapper for Geometry Dash API made with Dart
+A wrapper for Geometry Dash API written in Dart
